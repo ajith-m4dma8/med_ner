@@ -1,0 +1,3 @@
+dataset/BC5CDR/        # Ignore dynamically downloaded dataset
+.ipynb_checkpoints/    # Ignore Jupyter notebook autosave checkpoints
+*.log                  # Ignore log files
