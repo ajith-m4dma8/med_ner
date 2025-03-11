@@ -25,8 +25,8 @@ Both datasets have been used to train separate models, each with its own Jupyter
 
 
 Open the relevant notebook based on the dataset:
-- `medical_ner_bc5cdr.ipynb` - For BC5CDR dataset training and testing.
-- `medical_ner_i2b2.ipynb` - For i2b2 dataset training and testing.
+- `bc5cdr_med_ner.ipynb` - For BC5CDR dataset training and testing.
+- `i2b2_final_med_ner.ipynb` - For i2b2 dataset training and testing.
 
 ## Results
 - Achieved high accuracy in recognizing medical entities.
